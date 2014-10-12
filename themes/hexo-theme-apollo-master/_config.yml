@@ -1,0 +1,13 @@
+# Header
+menu:
+  Магазин: http://hao-cha.ru/
+  Архив: /archives
+rss: /atom.xml
+
+# Content
+excerpt_link: Читать дальше >> 
+fancybox: true
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
