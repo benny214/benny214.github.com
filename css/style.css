@@ -2,6 +2,7 @@
 @import url("http://fonts.googleapis.com/css?family=PT+Mono&subset=latin,cyrillic");
 @import url("http://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=latin,cyrillic");
 @import url("http://fonts.googleapis.com/css?family=PT+Serif:400,700&subset=latin,cyrillic");
+@import url("http://fonts.googleapis.com/css?family=Roboto+Slab:400,300&subset=cyrillic");
 html,
 body,
 div,
@@ -561,12 +562,14 @@ a
   left: -200px;
   width: 180px;
   font-size: 85%;
+  font-family: 'Roboto Slab';
+  color: #d71100;
 }
 .entry-meta-header a {
-  color: #4f5759;
+  color: #d71100;
 }
 .entry-meta-header a:hover {
-  color: #33a6b8;
+  color: #d71100;
 }
 .entry-meta-header .meta-elements {
   display: block;
