@@ -363,8 +363,9 @@ pre .deletion {
 }
 #header {
   display: block;
-  margin: 4em 0;
+  margin: 1em 0 4em;
   position: relative;
+  border-bottom: 1px solid #808080;
   *zoom: 1;
 }
 #header:after {
@@ -382,7 +383,7 @@ pre .deletion {
   font-weight: bold;
   padding-bottom: 0.2em;
   letter-spacing: 0.2em;
-  margin: 10px 0;
+  margin: 10px 0 30px;
 }
 .blog-title:hover {
   border-color: #33a6b8;
@@ -408,7 +409,7 @@ a
   background-size: 18px 17px;
 }
 .nav {
-  margin: 10px 0;
+  margin: 30px 0;
   font-size: 85%;
   text-transform: uppercase;
   float: right;
