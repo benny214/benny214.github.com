@@ -78,6 +78,12 @@ disqus_shortname:
 
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
+plugins:
+- hexo-generator-robotstxt
+sitemap:
+    path: sitemap.xml
+livereload:
+  port: 35729
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: hexo-theme-apollo-master
 exclude_generator:
